@@ -1,6 +1,7 @@
 
 Table no: High Level test plan
 
+
 Test ID 	Description	                                                Exp i/P	    Exp O/P	Actual O/P
 
 H_01    	Electricity bill calculation at urban areas	Choice	         SUCCESS	    SUCCESS
