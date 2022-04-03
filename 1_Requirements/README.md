@@ -9,6 +9,7 @@
 * total load calculation
 * unit consumed per day
 * units consumed per month
+
 In addition, high-end electricity bill calculators generally include:
 * electricity bill calculation in urban areas
 * electricity bill calculation in rural areas
